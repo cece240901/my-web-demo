@@ -4,7 +4,7 @@ function changeMessage() {
 
 
 function setupButtonCycle() {
-  const colors = ["red", "white"];
+  const colors = ["red", "blue", "white"];
   let index = 0;
 
   const button = document.getElementById("changeBtn");

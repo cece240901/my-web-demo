@@ -16,4 +16,4 @@ function setupButtonCycle() {
 }
 
 // 페이지가 로드되면 함수 실행
-//window.onload = setupButtonCycle;
+window.onload = setupButtonCycle;

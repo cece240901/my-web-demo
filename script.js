@@ -1,0 +1,3 @@
+function changeMessage() {
+  document.getElementById("message").innerText = "버튼을 눌러 메시지가 바뀌었습니다!";
+}

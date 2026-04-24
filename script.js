@@ -4,7 +4,7 @@ function changeMessage() {
 
 
 function setupButtonCycle() {
-  const colors = ["red", "blue", "green", "yellow", "purple"];
+  const colors = ["red", "white"];
   let index = 0;
 
   const button = document.getElementById("changeBtn");
@@ -16,4 +16,4 @@ function setupButtonCycle() {
 }
 
 // 페이지가 로드되면 함수 실행
-window.onload = setupButtonCycle;
+//window.onload = setupButtonCycle;
